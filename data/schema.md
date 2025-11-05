@@ -1,4 +1,4 @@
-# Data schema (example)
+# Data schema 
 
 - patient_id: string
 - admission_id: string
